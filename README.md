@@ -19,4 +19,3 @@ Features Real-time Collaboration: Users can edit the document simultaneously, wi
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/41aa351c-02cd-414f-8931-92681913c3f6)
-C:\Users\ameen\OneDrive\Pictures\Screenshots
